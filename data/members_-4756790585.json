@@ -28,5 +28,35 @@
     "telegram_id": 1174432928,
     "name": "анфиса",
     "active": true
+  },
+  {
+    "telegram_id": 1296465308,
+    "name": "Ксения",
+    "active": true
+  },
+  {
+    "telegram_id": 8105701519,
+    "name": "Алёна",
+    "active": true
+  },
+  {
+    "telegram_id": 1963871659,
+    "name": "Виктория",
+    "active": true
+  },
+  {
+    "telegram_id": 710089785,
+    "name": "Дарья",
+    "active": true
+  },
+  {
+    "telegram_id": 1460296068,
+    "name": "Olya Kuleshova",
+    "active": true
+  },
+  {
+    "telegram_id": 1625735346,
+    "name": "Оля",
+    "active": false
   }
 ]
